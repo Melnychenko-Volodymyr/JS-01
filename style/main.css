@@ -1,0 +1,9 @@
+.class1 {
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: aqua;
+    font-size: 32px;
+    padding-top: 100px;
+    text-align: center;
+}
